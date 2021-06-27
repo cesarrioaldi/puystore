@@ -77,7 +77,23 @@
                             <h2>01</h2>
                             <img src="<?=base_url('assets')?>/images/features-icon-1.png" alt="">
                             <h4>Ganti LCD</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>                            
+                            <p> Ciri-Ciri LCD anda bermasalah
+
+                                LCD Ponsel anda bergaris?
+
+                                Ada spot hitam / berwarna di layar Ponsel anda? 
+
+                                Layar Ponsel anda bergerak tidak normal atau bergeser sendiri pada saat tidak disentuh?
+
+                                Touchscreen Ponsel anda tidak berfungsi dengan baik?
+
+                                LCD Ponsel anda pecah atau retak akibat terkena benturan?
+
+                                Jika anda mengalami salah satu masalah di atas, maka tampaknya anda membutuhkan jasa Service LCD Ponsel atau lebih tepatnya jasa Servis Ganti LCD Ponsel.
+
+                                Anda harus mengganti satu set LCD Ponsel. 
+                                <p><marquee>Hubungi kami jika LCD Anda Bermasalah kami siap menangani!!!</marquee></p>
+                            </p>     
                             <button class="main-button" style="margin-top: 20px"
                             data-toggle="modal" data-target="#exampleModal1"><i class="fa fa-plus"></i> Order</button>
                         </div>
@@ -90,7 +106,20 @@
                             <h2>02</h2>
                             <img src="<?=base_url('assets')?>/images/features-icon-2.png" alt="">
                             <h4>Kerusakan Software</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <p>
+                            • Restart Sendiri
+                                    Smartphone restart-restart sendiri, serta tidak dapat ke menu utama. Ini juga salah satu ciri android rusak bagian software.
+
+                                • Overheat / Panas
+                                    Ponsel pintar android akan panas berlebihan atau bahasa inggrisnya Overheat. Jika mengalami seperti ini, pembaruan perangkat lunak menjadi hal yang wajib, silahkan simak cara mengatasi android overheat Disini
+
+                                • Nge-LAG
+                                    Nge-LAG disini bisa berupa Lemot, Layar LCD tidak menampilkan gambar atau Blank, bahkan sering di temui android tiba-tiba menutup aplikasi.
+
+                                
+                                <p><marquee>Hubungi kami jika Sofware Anda Bermasalah kami siap menangani!!!</marquee></p>
+
+                            </p>
                             <button class="main-button" style="margin-top: 20px"
                             data-toggle="modal" data-target="#exampleModal2"><i class="fa fa-plus"></i> Order</button>
                             </a>
@@ -104,7 +133,15 @@
                             <h2>03</h2>
                             <img src="<?=base_url('assets')?>/images/features-icon-3.png" alt="">
                             <h4>Kerusakan Hardware</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <p> Ciri-ciri Hardware anda Rusak!!
+
+                                1. Port USB Connector Atau Port Charger
+                                    Masalah {hardware} yang sering ditemui oleh pengguna smartphone kebanyakan adalah masalah pada port charger yang tidak berfungsi. Kerusakan ini biasanya terjadi akibat pengguna yang memakai smartphonenya sambil mengisi daya tanpa memperhatikan port USB yang tidak sejajar dengan sambungan charger-nya.
+                                2. LCD Atau Layar Android Pecah
+                                    Kerusakan pada LCD biasaya terjadi akibat smartphone terjatuh, tergencet, atau terhantam 
+                                    <p><marquee>Hubungi kami jika Hardware Anda Bermasalah kami siap menangani!!!</marquee></p>
+
+                                </p>
                             <button class="main-button" style="margin-top: 20px"
                             data-toggle="modal" data-target="#exampleModal3"><i class="fa fa-plus"></i> Order</button>
                         </div>
@@ -117,50 +154,7 @@
 
     <div class="left-image-decor"></div>
 
-    <!-- ***** Features Big Item Start ***** -->
-    <section class="section" id="promotion">
-        <div class="container">
-            <div class="row">
-                <div class="left-image col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix-big"
-                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
-                </div>
-                <div class="right-text offset-lg-1 col-lg-6 col-md-12 col-sm-12 mobile-bottom-fix">
-                    <ul>
-                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                            <img src="assets/images/about-icon-01.png" alt="">
-                            <div class="text">
-                                <h4>Vestibulum pulvinar rhoncus</h4>
-                                <p>Please do not redistribute this template ZIP file for a download purpose. You may <a
-                                rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact</a> us for
-                            additional licensing of our template or to get a PSD file.</p>
-                            </div>
-                        </li>
-                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.5s">
-                            <img src="assets/images/about-icon-02.png" alt="">
-                            <div class="text">
-                                <h4>Sed blandit quam in velit</h4>
-                                <p>You can <a rel="nofollow"
-                                        href="https://templatemo.com/tm-540-lava-landing-page">download Lava
-                                        Template</a> from our website. Duis viverra, ipsum et scelerisque placerat, orci
-                                    magna consequat ligula.</p>
-                            </div>
-                        </li>
-                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
-                            <img src="assets/images/about-icon-03.png" alt="">
-                            <div class="text">
-                                <h4>Aenean faucibus venenatis</h4>
-                                <p>Phasellus in imperdiet felis, eget vestibulum nulla. Aliquam nec dui nec augue
-                                    maximus porta. Curabitur tristique lacus.</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ***** Features Big Item End ***** -->
-
+    
     <div class="right-image-decor"></div>
 
     <!-- ***** Testimonials Starts ***** -->
@@ -169,9 +163,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="center-heading">
-                        <h2>What They Think <em>About Us</em></h2>
-                        <p>Suspendisse vitae laoreet mauris. Fusce a nisi dapibus, euismod purus non, convallis odio.
-                            Donec vitae magna ornare, pellentesque ex vitae, aliquet urna.</p>
+                        <h2>Apa yang Mereka Pikirkan <em>Tentang Kami</em></h2>
+                        <p>Ini adalah Testimonials dari pelanggan kamu</p>
                     </div>
                 </div>
                 <div class="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big"
@@ -189,10 +182,9 @@
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
                                 </ul>
-                                <h4>Jonathan Smart</h4>
-                                <p>“Nullam hendrerit, elit a semper pharetra, ipsum nibh tristique tortor, in tempus
-                                    urna elit in mauris.”</p>
-                                <span>Besta CTO</span>
+                                <h4>Cesarrio Aldi Anggara</h4>
+                                <p>PUYSTORE sangat terbaik, dengan sekali analisa kerusakan, langsung eksekusi dan langsung bisa di pakai lagi ponsel saya</p>
+                                <span>12180573</span>
                             </div>
                         </div>
                         <div class="item service-item">
@@ -207,10 +199,10 @@
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
                                 </ul>
-                                <h4>Martino Tino</h4>
-                                <p>“Morbi non mi luctus felis molestie scelerisque. In ac libero viverra, placerat est
-                                    interdum, rhoncus leo.”</p>
-                                <span>Web Analyst</span>
+                                <h4>M. Daffa Kurniawan</h4>
+                                <p>"Iphone saya langsung enak kembali setelah di perbaiki di Puystore"</p>
+                                </br>
+                                <span>192849285</span>
                             </div>
                         </div>
                         <div class="item service-item">
@@ -223,10 +215,10 @@
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
                                 </ul>
-                                <h4>George Tasa</h4>
-                                <p>“Fusce rutrum in dolor sit amet lobortis. Ut at vehicula justo. Donec quam dolor,
-                                    congue a fringilla sed, maximus et urna.”</p>
-                                <span>System Admin</span>
+                                <h4>Asluki</h4>
+                                <p>“LCD saya yang awal nya pecah, sekarang sudah mulus, Terimakasih Puystore”</p>
+                                </br>
+                                <span>192847294</span>
                             </div>
                         </div>
                         <div class="item service-item">
@@ -240,10 +232,43 @@
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
                                 </ul>
-                                <h4>Sir James</h4>
-                                <p>"Fusce rutrum in dolor sit amet lobortis. Ut at vehicula justo. Donec quam dolor,
-                                    congue a fringilla sed, maximus et urna."</p>
+                                <h4>Faisal Abdau</h4>
+                                <p>"Service ponsel tercepat yang pernah ada"</p>
+                                </br>
+                                </br>
                                 <span>New Villager</span>
+                            </div>
+                        </div>
+                        
+                        <div class="item service-item">
+                            <div class="author">
+                                <i><img src="assets/images/testimonial-author-1.png" alt="Author Third"></i>
+                            </div>
+                            <div class="testimonial-content">
+                                <ul class="stars">
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i></li>
+                                </ul>
+                                <h4>Jemi Dwi</h4>
+                                <p>“Service center dengan penanganan yang sangat cepat, service di tempat lain bsa ber hari hari, di sini sehari selesai”</p>
+                                <span>192847294</span>
+                            </div>
+                        </div>
+                        
+                        <div class="item service-item">
+                            <div class="author">
+                                <i><img src="assets/images/testimonial-author-1.png" alt="Author Third"></i>
+                            </div>
+                            <div class="testimonial-content">
+                                <ul class="stars">
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i></li>
+                                    <li><i class="fa fa-star"></i></li>
+                                </ul>
+                                <h4>Dhafa Arya Sena</h4>
+                                <p>“Handphone yang semulanya hang, dan tidak bisa nyala. sekarang sudah bisa untuk push RANK mobile legends lagi”</p>
+                                <span>192847294</span>
                             </div>
                         </div>
                     </div>
